@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ffcc211f-1e0d-452a-b00b-cb9bdfbf4607.jpeg?v=1791142255)](https://www.boot.dev/certificates/ffcc211f-1e0d-452a-b00b-cb9bdfbf4607)
 <!--
 **atakankahya/atakankahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
